@@ -2,8 +2,7 @@ Hi there 👋
 
 ----This is me----
 
-## 💫 About Me :
-i am a full stack web developer
+I am a full stack web developer
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0m1d_m0usav1) 
